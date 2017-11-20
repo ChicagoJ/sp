@@ -1,0 +1,169 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+
+      // Load Charts and the corechart package.
+      google.charts.load('current', {'packages':['corechart']});
+
+      // Draw the pie chart for Sarah's pizza when Charts is loaded.
+      google.charts.setOnLoadCallback(drawSarahChart);
+
+      // Draw the pie chart for the Anthony's pizza when Charts is loaded.
+      google.charts.setOnLoadCallback(drawAnthonyChart);
+
+      // Callback that draws the pie chart for Sarah's pizza.
+      function drawSarahChart() {
+
+        // Create the data table for Sarah's pizza.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'ProductName');
+        data.addColumn('number', 'Stocks');
+        data.addRows([
+['la01',7996 ],
+['la02',20 ],
+['la05',20 ],
+['la06',20],
+        ]);
+
+        // Set options for Sarah's pie chart.
+        var options = {title:'the total number of items available for every product',
+                       width:400,
+                       height:300};
+
+        // Instantiate and draw the chart for Sarah's pizza.
+        var chart = new google.visualization.BarChart(document.getElementById('Sarah_chart_div'));
+        chart.draw(data, options);
+      }
+
+      // Callback that draws the pie chart for Anthony's pizza.
+      function drawAnthonyChart() {
+
+        // Create the data table for Anthony's pizza.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Topping');
+        data.addColumn('number', 'Stocks');
+        data.addRows([
+['la01',21],
+['la02',20],
+['la05',20],
+['la06',20],
+['la03',20],
+['la04',20],
+['Laptop Warranty',20],
+['driver 2',20],
+['driver 1',20],
+['Flash driver 1',20],
+['driver 3',20],
+['CD1',20],
+['Flash driver 2',20],
+['CD3',20],
+['CD2',20],
+['driver 4',20],
+['driver 5',20],
+['SmartWatch Warranty',99],
+['Watch Battery 2',99],
+['HeadPhone 1',10],
+['HeadPhone 3',20],
+['HeadPhone 2',20],
+['laptop 1',20],
+['HeadPhone 5',20],
+['HeadPhone 4',20],
+['laptop 3',20],
+['HeadPhone 7',20],
+['laptop 2',20],
+['HeadPhone 6',20],
+['iphone 6',13],
+['laptop 5',20],
+['HeadPhone 9',20],
+['laptop 4',20],
+['HeadPhone 8',20],
+['iphone 7P',19],
+['laptop 7',20],
+['iphone 6P',20],
+['laptop 6',20],
+['laptop 9',20],
+['iphone 7',19],
+['laptop 8',20],
+['Watch Battery 1',99],
+['iphone 8P',20],
+['Watch Case 4',99],
+['iphone 8',19],
+['Watch Case 3',99],
+['Watch Case 2',99],
+['Watch Case 1',99],
+['Phone Battery',99],
+['Phone Battery II',99],
+['Phone Charge',99],
+['Phone Charge II',99],
+['Phone case I',99],
+['HeadPhone 10',20],
+['Phone case II',99],
+['laptop 10',20],
+['ha01',12],
+['ha02',20],
+['Phone Warranty',20],
+['ha03',20],
+['Disk Warranty',20],
+['ha04',20],
+['ea06',20],
+['iphone X',20],
+['ha05',20],
+['ea05',20],
+['ha06',20],
+['ea04',20],
+['ea03',20],
+['ea02',20],
+['ea01',20],
+['Speaker 2',20],
+['Speaker 1',20],
+['Speaker 4',20],
+['Speaker 3',20],
+['Moto 360 1st Gen',20],
+['Speaker 6',20],
+['Apple Watch 1st gen',20],
+['Speaker 5',20],
+['Moto 360 Sport',20],
+['Speaker 8',20],
+['Moto 360 2nd Gen',20],
+['Speaker 7',20],
+['Apple Watch 3rd Gen',20],
+['Apple watch 2nd Gen',20],
+['Speaker 9',20],
+['Fossi',20],
+['Galaxy gear',20],
+['Fossi 2nd Gen',20],
+['Speaker 10',20],
+['Fossi Q',20],
+['Speaker Warranty',20],
+['sa06',20],
+['sa03',20],
+['sa02',20],
+['sa05',20],
+['sa04',20],
+['HeadPhone warrnty',20],
+['sa01',20],
+
+        ]);
+
+        // Set options for Anthony's pie chart.
+        var options = {title:'the total number of items available for every product',
+                       width:800,
+                       height:800};
+
+        // Instantiate and draw the chart for Anthony's pizza.
+        var chart = new google.visualization.BarChart(document.getElementById('Anthony_chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <!--Table and divs that hold the pie charts-->
+    <table class="columns">
+      <tr>
+        <td><div id="Sarah_chart_div" style="border: 1px solid #ccc"></div></td>
+        <td><div id="Anthony_chart_div" style="border: 1px solid #ccc"></div></td>
+      </tr>
+    </table>
+  </body>
+</html>

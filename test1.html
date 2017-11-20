@@ -1,0 +1,44 @@
+<!DOCTYPE html>   
+<html lang="en">   
+<head>   
+    <meta charset="UTF-8">   
+    <title>div居于页面正中间</title>   
+    <style type="text/css">   
+        *{   
+            margin: 0;   
+            padding: 0;   
+            background-color: #EAEAEA;   
+        }   
+        div{   
+   
+            background-color: #1E90FF;   
+        }   
+        .center-in-center{   
+            position: absolute;   
+            top: 50%;   
+            left: 50%;   
+            position: absolute;   
+            top: 50%;   
+            left: 50%;   
+            -webkit-transform: translate(-50%, -50%);   
+            -moz-transform: translate(-50%, -50%);   
+            -ms-transform: translate(-50%, -50%);   
+            -o-transform: translate(-50%, -50%);   
+            transform: translate(-50%, -200%);          
+        }   
+        form input, form select, form textarea {
+            background-color: #2222;
+            padding: 5px;
+            color: #333333;
+            border: 1px solid #333;
+            border-right:1px solid #444;
+            border-bottom:1px solid #444;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 13px;
+        }    
+</style>   
+</head>   
+<body>   
+    <div class="center-in-center"><table><tr><td><input type="txy" name="aaa"></td><td><input type="submit" name="submit"></td></tr><tr><td>kkk</td><td>ooooo</td></tr><tr><td>a</td><td>b</td></tr></div>   
+</body>   
+</html>  

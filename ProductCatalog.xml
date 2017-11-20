@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <item id="w01">
+        <name>Apple Watch</name>
+        <price>399</price>
+        <discount>0.80</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>wa01</accessory>
+            <accessory>wa02</accessory>
+            <accessory>wa03</accessory>
+            <accessory>wa04</accessory>
+            <accessory>wa05</accessory>
+            <accessory>wa06</accessory>
+            <accessory>wa07</accessory>
+        </accessories>
+    </item>
+    <item id="w02">
+        <name>Moto 360 1st Gen</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>wa01</accessory>
+            <accessory>wa02</accessory>
+            <accessory>wa03</accessory>
+            <accessory>wa04</accessory>
+            <accessory>wa05</accessory>
+            <accessory>wa06</accessory>
+            <accessory>wa07</accessory>
+        </accessories>
+        </item>     
+    <item id="w03">
+        <name>Moto 360 2nd Gen</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>wa01</accessory>
+            <accessory>wa02</accessory>
+            <accessory>wa03</accessory>
+            <accessory>wa04</accessory>
+            <accessory>wa05</accessory>
+            <accessory>wa06</accessory>
+            <accessory>wa07</accessory>
+        </accessories>
+        </item>   
+    <item id="w04">
+        <name>Moto 360 Sport</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>wa01</accessory>
+            <accessory>wa02</accessory>
+            <accessory>wa03</accessory>
+            <accessory>wa04</accessory>
+            <accessory>wa05</accessory>
+            <accessory>wa06</accessory>
+            <accessory>wa07</accessory>
+        </accessories>
+        </item>    
+    <item id="w05">
+        <name>Apple watch 2nd Gen</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>wa01</accessory>
+            <accessory>wa02</accessory>
+            <accessory>wa03</accessory>
+            <accessory>wa04</accessory>
+            <accessory>wa05</accessory>
+            <accessory>wa06</accessory>
+            <accessory>wa07</accessory>
+        </accessories>
+        </item>
+    <item id="w06">
+        <name>Apple Watch 3rd Gen</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>wa01</accessory>
+            <accessory>wa02</accessory>
+            <accessory>wa03</accessory>
+            <accessory>wa04</accessory>
+            <accessory>wa05</accessory>
+            <accessory>wa06</accessory>
+            <accessory>wa07</accessory>
+        </accessories>
+        </item>    
+    <item id="w07">
+        <name>Galaxy gear</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>wa01</accessory>
+            <accessory>wa02</accessory>
+            <accessory>wa03</accessory>
+            <accessory>wa04</accessory>
+            <accessory>wa05</accessory>
+            <accessory>wa06</accessory>
+            <accessory>wa07</accessory>
+        </accessories>
+        </item>    
+    <item id="w08">
+        <name>Fossi</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>wa01</accessory>
+            <accessory>wa02</accessory>
+            <accessory>wa03</accessory>
+            <accessory>wa04</accessory>
+            <accessory>wa05</accessory>
+            <accessory>wa06</accessory>
+            <accessory>wa07</accessory>
+        </accessories>
+        </item>    
+    <item id="w09">
+        <name>Fossi 2nd Gen</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>wa01</accessory>
+            <accessory>wa02</accessory>
+            <accessory>wa03</accessory>
+            <accessory>wa04</accessory>
+            <accessory>wa05</accessory>
+            <accessory>wa06</accessory>
+            <accessory>wa07</accessory>
+        </accessories>
+        </item>    
+    <item id="w10">
+        <name>Fossi Q</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>wa01</accessory>
+            <accessory>wa02</accessory>
+            <accessory>wa03</accessory>
+            <accessory>wa04</accessory>
+            <accessory>wa05</accessory>
+            <accessory>wa06</accessory>
+            <accessory>wa07</accessory>
+        </accessories>
+        </item>    
+    <!-- watch accessories -->
+    <item id="wa01">
+        <name>Watch Case 1</name>
+        <price>20</price>
+        <stock>99</stock>
+    </item>    
+    <item id="wa02">
+        <name>Watch Case 2</name>
+        <price>20</price>
+        <stock>99</stock>
+    </item>
+    <item id="wa03">
+        <name>Watch Case 3</name>
+        <price>20</price>
+        <stock>99</stock>
+    </item>
+    <item id="wa04">
+        <name>Watch Case 4</name>
+        <price>20</price>
+        <stock>99</stock>
+    </item>
+    <item id="wa05">
+        <name>Watch Battery 1</name>
+        <price>20</price>
+        <stock>99</stock>
+    </item>
+    <item id="wa06">
+        <name>Watch Battery 2</name>
+        <price>20</price>
+        <stock>99</stock>
+    </item>    
+    <item id="wa07">
+        <name>SmartWatch Warranty</name>
+        <price>20</price>
+        <stock>99</stock>
+    </item>
+
+    <!-- Phone -->
+    <item id="p01">
+        <name>iphone 5s</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>pa01</accessory>
+            <accessory>pa02</accessory>
+            <accessory>pa03</accessory>
+            <accessory>pa04</accessory>
+            <accessory>pa05</accessory>
+            <accessory>pa06</accessory>
+            <accessory>pa07</accessory>
+        </accessories>
+        </item>
+    <item id="p02">
+        <name>iPhone 6s Plus</name>
+        <price >699</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>pa01</accessory>
+            <accessory>pa02</accessory>
+            <accessory>pa03</accessory>
+            <accessory>pa04</accessory>
+            <accessory>pa05</accessory>
+            <accessory>pa06</accessory>
+            <accessory>pa07</accessory>
+        </accessories>
+        </item>
+    <item id="p03">
+        <name>iphone 7P</name>
+        <price >800</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>pa01</accessory>
+            <accessory>pa02</accessory>
+            <accessory>pa03</accessory>
+            <accessory>pa04</accessory>
+            <accessory>pa05</accessory>
+            <accessory>pa06</accessory>
+            <accessory>pa07</accessory>
+        </accessories>
+        </item>    
+    <item id="p04">
+        <name>iphone 7</name>
+        <price >800</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>pa01</accessory>
+            <accessory>pa02</accessory>
+            <accessory>pa03</accessory>
+            <accessory>pa04</accessory>
+            <accessory>pa05</accessory>
+            <accessory>pa06</accessory>
+            <accessory>pa07</accessory>
+        </accessories>
+        </item>
+    <item id="p08">
+        <name>iphone 8</name>
+        <price >900</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>pa01</accessory>
+            <accessory>pa02</accessory>
+            <accessory>pa03</accessory>
+            <accessory>pa04</accessory>
+            <accessory>pa05</accessory>
+            <accessory>pa06</accessory>
+            <accessory>pa07</accessory>
+        </accessories>
+        </item>
+
+    <item id="p09">
+        <name>iphone 8P</name>
+        <price >900</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>pa01</accessory>
+            <accessory>pa02</accessory>
+            <accessory>pa03</accessory>
+            <accessory>pa04</accessory>
+            <accessory>pa05</accessory>
+            <accessory>pa06</accessory>
+            <accessory>pa07</accessory>
+        </accessories>
+        </item>    
+    <item id="p10">
+        <name>iphone X</name>
+        <price >900</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>pa01</accessory>
+            <accessory>pa02</accessory>
+            <accessory>pa03</accessory>
+            <accessory>pa04</accessory>
+            <accessory>pa05</accessory>
+            <accessory>pa06</accessory>
+            <accessory>pa07</accessory>
+        </accessories>
+        </item>   
+
+    <!-- Phone accessory -->
+    <item id="pa01">
+        <name>Phone case I</name>
+        <price>20</price>
+        <stock>99</stock>
+    </item>
+    <item id="pa02">
+        <name>Phone case II</name>
+        <price>20</price>
+        <stock>99</stock>
+    </item>
+    <item id="pa03">
+        <name>Phone Battery</name>
+        <price>20</price>
+        <stock>99</stock>
+    </item>
+    <item id="pa04">
+        <name>Phone Battery II</name>
+        <price>20</price>
+        <stock>99</stock>
+    </item>
+    <item id="pa05">
+        <name>Phone Charge</name>
+        <price>20</price>
+        <stock>99</stock>
+    </item>
+    <item id="pa06">
+        <name>Phone Charge II</name>
+        <price>20</price>
+        <stock>99</stock>
+    </item>
+    <item id="pa07">
+        <name>Phone Warranty</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <!-- Laptop -->
+    <item id="l01">
+        <name>MacBook Pro Laptop</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>la01</accessory>
+            <accessory>la02</accessory>
+            <accessory>la03</accessory>
+            <accessory>la04</accessory>
+            <accessory>la05</accessory>
+            <accessory>la06</accessory>
+            <accessory>la07</accessory>
+        </accessories>
+        </item> 
+    <item id="l02">
+        <name>laptop 2</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>la01</accessory>
+            <accessory>la02</accessory>
+            <accessory>la03</accessory>
+            <accessory>la04</accessory>
+            <accessory>la05</accessory>
+            <accessory>la06</accessory>
+            <accessory>la07</accessory>
+        </accessories>
+        </item> 
+    <item id="l03">
+        <name>laptop 3</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>la01</accessory>
+            <accessory>la02</accessory>
+            <accessory>la03</accessory>
+            <accessory>la04</accessory>
+            <accessory>la05</accessory>
+            <accessory>la06</accessory>
+            <accessory>la07</accessory>
+        </accessories>
+        </item> 
+    <item id="l04">
+        <name>laptop 4</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>la01</accessory>
+            <accessory>la02</accessory>
+            <accessory>la03</accessory>
+            <accessory>la04</accessory>
+            <accessory>la05</accessory>
+            <accessory>la06</accessory>
+            <accessory>la07</accessory>
+        </accessories>
+        </item> 
+    <item id="l05">
+        <name>laptop 5</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>la01</accessory>
+            <accessory>la02</accessory>
+            <accessory>la03</accessory>
+            <accessory>la04</accessory>
+            <accessory>la05</accessory>
+            <accessory>la06</accessory>
+            <accessory>la07</accessory>
+        </accessories>
+        </item> 
+    <item id="l06">
+        <name>laptop 6</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>la01</accessory>
+            <accessory>la02</accessory>
+            <accessory>la03</accessory>
+            <accessory>la04</accessory>
+            <accessory>la05</accessory>
+            <accessory>la06</accessory>
+            <accessory>la07</accessory>
+        </accessories>
+        </item> 
+    <item id="l07">
+        <name>laptop 7</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>la01</accessory>
+            <accessory>la02</accessory>
+            <accessory>la03</accessory>
+            <accessory>la04</accessory>
+            <accessory>la05</accessory>
+            <accessory>la06</accessory>
+            <accessory>la07</accessory>
+        </accessories>
+        </item> 
+    <item id="l08">
+        <name>laptop 8</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>la01</accessory>
+            <accessory>la02</accessory>
+            <accessory>la03</accessory>
+            <accessory>la04</accessory>
+            <accessory>la05</accessory>
+            <accessory>la06</accessory>
+            <accessory>la07</accessory>
+        </accessories>
+        </item> 
+    <item id="l09">
+        <name>laptop 9</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>la01</accessory>
+            <accessory>la02</accessory>
+            <accessory>la03</accessory>
+            <accessory>la04</accessory>
+            <accessory>la05</accessory>
+            <accessory>la06</accessory>
+            <accessory>la07</accessory>
+        </accessories>
+        </item> 
+    <item id="l10">
+        <name>laptop 10</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>la01</accessory>
+            <accessory>la02</accessory>
+            <accessory>la03</accessory>
+            <accessory>la04</accessory>
+            <accessory>la05</accessory>
+            <accessory>la06</accessory>
+            <accessory>la07</accessory>
+        </accessories>
+        </item> 
+    <!-- laptop accessory -->
+    <item id="la07">
+        <name>Laptop Warranty</name>
+        <price>200</price>
+        <stock>9999</stock>
+    </item>
+    <item id="la01">
+        <name>la11</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="la02">
+        <name>la02</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="la03">
+        <name>la03</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="la04">
+        <name>la04</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="la05">
+        <name>la05</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="la06">
+        <name>la06</name>
+        <price>209</price>
+        <stock>9999</stock>
+    </item>
+
+
+
+    <!-- HeadPhone    -->
+    <item id="h01">
+        <name>HeadPhone 1</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ha01</accessory>
+            <accessory>ha02</accessory>
+            <accessory>ha03</accessory>
+            <accessory>ha04</accessory>
+            <accessory>ha05</accessory>
+            <accessory>ha06</accessory>
+            <accessory>ha07</accessory>
+        </accessories>
+        </item> 
+
+    <item id="h02">
+        <name>HeadPhone 2</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ha01</accessory>
+            <accessory>ha02</accessory>
+            <accessory>ha03</accessory>
+            <accessory>ha04</accessory>
+            <accessory>ha05</accessory>
+            <accessory>ha06</accessory>
+            <accessory>ha07</accessory>
+        </accessories>
+        </item> 
+
+    <item id="h03">
+        <name>HeadPhone 3</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ha01</accessory>
+            <accessory>ha02</accessory>
+            <accessory>ha03</accessory>
+            <accessory>ha04</accessory>
+            <accessory>ha05</accessory>
+            <accessory>ha06</accessory>
+            <accessory>ha07</accessory>
+        </accessories>
+        </item> 
+
+    <item id="h04">
+        <name>HeadPhone 4</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ha01</accessory>
+            <accessory>ha02</accessory>
+            <accessory>ha03</accessory>
+            <accessory>ha04</accessory>
+            <accessory>ha05</accessory>
+            <accessory>ha06</accessory>
+            <accessory>ha07</accessory>
+        </accessories>
+        </item> 
+
+    <item id="h05">
+        <name>HeadPhone 5</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ha01</accessory>
+            <accessory>ha02</accessory>
+            <accessory>ha03</accessory>
+            <accessory>ha04</accessory>
+            <accessory>ha05</accessory>
+            <accessory>ha06</accessory>
+            <accessory>ha07</accessory>
+        </accessories>
+        </item> 
+    <item id="h06">
+        <name>HeadPhone 6</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ha01</accessory>
+            <accessory>ha02</accessory>
+            <accessory>ha03</accessory>
+            <accessory>ha04</accessory>
+            <accessory>ha05</accessory>
+            <accessory>ha06</accessory>
+            <accessory>ha07</accessory>
+        </accessories>
+        </item> 
+    <item id="h07">
+        <name>HeadPhone 7</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ha01</accessory>
+            <accessory>ha02</accessory>
+            <accessory>ha03</accessory>
+            <accessory>ha04</accessory>
+            <accessory>ha05</accessory>
+            <accessory>ha06</accessory>
+            <accessory>ha07</accessory>
+        </accessories>
+        </item> 
+    <item id="h08">
+        <name>HeadPhone 8</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ha01</accessory>
+            <accessory>ha02</accessory>
+            <accessory>ha03</accessory>
+            <accessory>ha04</accessory>
+            <accessory>ha05</accessory>
+            <accessory>ha06</accessory>
+            <accessory>ha07</accessory>
+        </accessories>
+        </item> 
+    <item id="h09">
+        <name>HeadPhone 9</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ha01</accessory>
+            <accessory>ha02</accessory>
+            <accessory>ha03</accessory>
+            <accessory>ha04</accessory>
+            <accessory>ha05</accessory>
+            <accessory>ha06</accessory>
+            <accessory>ha07</accessory>
+        </accessories>
+        </item> 
+    <item id="h10">
+        <name>HeadPhone 10</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ha01</accessory>
+            <accessory>ha02</accessory>
+            <accessory>ha03</accessory>
+            <accessory>ha04</accessory>
+            <accessory>ha05</accessory>
+            <accessory>ha06</accessory>
+            <accessory>ha07</accessory>
+        </accessories>
+        </item> 
+        <!-- headphone accessory -->
+    <item id="ha07">
+        <name>HeadPhone warrnty</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="ha01">
+        <name>ha01</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="ha02">
+        <name>ha02</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="ha03">
+        <name>ha03</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="ha04">
+        <name>ha04</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="ha05">
+        <name>ha05</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="ha06">
+        <name>ha06</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+
+    <!-- Speaker -->
+    <item id="s08">
+        <name>Speaker 8</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>sa01</accessory>
+            <accessory>sa02</accessory>
+            <accessory>sa03</accessory>
+            <accessory>sa04</accessory>
+            <accessory>sa05</accessory>
+            <accessory>sa06</accessory>
+            <accessory>sa07</accessory>
+        </accessories>
+        </item> 
+    <item id="s09">
+        <name>Speaker 9</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>sa01</accessory>
+            <accessory>sa02</accessory>
+            <accessory>sa03</accessory>
+            <accessory>sa04</accessory>
+            <accessory>sa05</accessory>
+            <accessory>sa06</accessory>
+            <accessory>sa07</accessory>
+        </accessories>
+        </item> 
+    <item id="s10">
+        <name>Speaker 10</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>sa01</accessory>
+            <accessory>sa02</accessory>
+            <accessory>sa03</accessory>
+            <accessory>sa04</accessory>
+            <accessory>sa05</accessory>
+            <accessory>sa06</accessory>
+            <accessory>sa07</accessory>
+        </accessories>
+        </item> 
+    <item id="s01">
+        <name>Speaker 1</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>sa01</accessory>
+            <accessory>sa02</accessory>
+            <accessory>sa03</accessory>
+            <accessory>sa04</accessory>
+            <accessory>sa05</accessory>
+            <accessory>sa06</accessory>
+            <accessory>sa07</accessory>
+        </accessories>
+        </item> 
+    <item id="s02">
+        <name>Speaker 2</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>sa01</accessory>
+            <accessory>sa02</accessory>
+            <accessory>sa03</accessory>
+            <accessory>sa04</accessory>
+            <accessory>sa05</accessory>
+            <accessory>sa06</accessory>
+            <accessory>sa07</accessory>
+        </accessories>
+        </item> 
+    <item id="s03">
+        <name>Speaker 3</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>sa01</accessory>
+            <accessory>sa02</accessory>
+            <accessory>sa03</accessory>
+            <accessory>sa04</accessory>
+            <accessory>sa05</accessory>
+            <accessory>sa06</accessory>
+            <accessory>sa07</accessory>
+        </accessories>
+        </item> 
+    <item id="s04">
+        <name>Speaker 4</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>sa01</accessory>
+            <accessory>sa02</accessory>
+            <accessory>sa03</accessory>
+            <accessory>sa04</accessory>
+            <accessory>sa05</accessory>
+            <accessory>sa06</accessory>
+            <accessory>sa07</accessory>
+        </accessories>
+        </item> 
+    <item id="s05">
+        <name>Speaker 5</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>sa01</accessory>
+            <accessory>sa02</accessory>
+            <accessory>sa03</accessory>
+            <accessory>sa04</accessory>
+            <accessory>sa05</accessory>
+            <accessory>sa06</accessory>
+            <accessory>sa07</accessory>
+        </accessories>
+        </item> 
+    <item id="s06">
+        <name>Speaker 6</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>sa01</accessory>
+            <accessory>sa02</accessory>
+            <accessory>sa03</accessory>
+            <accessory>sa04</accessory>
+            <accessory>sa05</accessory>
+            <accessory>sa06</accessory>
+            <accessory>sa07</accessory>
+        </accessories>
+        </item> 
+    <item id="s07">
+        <name>Speaker 7</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>sa01</accessory>
+            <accessory>sa02</accessory>
+            <accessory>sa03</accessory>
+            <accessory>sa04</accessory>
+            <accessory>sa05</accessory>
+            <accessory>sa06</accessory>
+            <accessory>sa07</accessory>
+        </accessories>
+        </item> 
+
+<!-- Speaker accessory -->
+    <item id="sa06">
+        <name>sa06</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="sa07">
+        <name>Speaker Warranty</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="sa05">
+        <name>sa05</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="sa04">
+        <name>sa04</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="sa03">
+        <name>sa03</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="sa02">
+        <name>sa02</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="sa01">
+        <name>sa01</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+
+        <!-- External Storage -->
+    <item id="e01">
+        <name>driver 1</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ea01</accessory>
+            <accessory>ea02</accessory>
+            <accessory>ea03</accessory>
+            <accessory>ea04</accessory>
+            <accessory>ea05</accessory>
+            <accessory>ea06</accessory>
+            <accessory>ea07</accessory>
+        </accessories>
+        </item> 
+    <item id="e02">
+        <name>driver 2</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ea01</accessory>
+            <accessory>ea02</accessory>
+            <accessory>ea03</accessory>
+            <accessory>ea04</accessory>
+            <accessory>ea05</accessory>
+            <accessory>ea06</accessory>
+            <accessory>ea07</accessory>
+        </accessories>
+        </item> 
+    <item id="e03">
+        <name>driver 3</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ea01</accessory>
+            <accessory>ea02</accessory>
+            <accessory>ea03</accessory>
+            <accessory>ea04</accessory>
+            <accessory>ea05</accessory>
+            <accessory>ea06</accessory>
+            <accessory>ea07</accessory>
+        </accessories>
+        </item> 
+    <item id="e04">
+        <name>Flash driver 1</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ea01</accessory>
+            <accessory>ea02</accessory>
+            <accessory>ea03</accessory>
+            <accessory>ea04</accessory>
+            <accessory>ea05</accessory>
+            <accessory>ea06</accessory>
+            <accessory>ea07</accessory>
+        </accessories>
+        </item> 
+    <item id="e05">
+        <name>Flash driver 2</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ea01</accessory>
+            <accessory>ea02</accessory>
+            <accessory>ea03</accessory>
+            <accessory>ea04</accessory>
+            <accessory>ea05</accessory>
+            <accessory>ea06</accessory>
+            <accessory>ea07</accessory>
+        </accessories>
+        </item> 
+    <item id="e06">
+        <name>CD1</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ea01</accessory>
+            <accessory>ea02</accessory>
+            <accessory>ea03</accessory>
+            <accessory>ea04</accessory>
+            <accessory>ea05</accessory>
+            <accessory>ea06</accessory>
+            <accessory>ea07</accessory>
+        </accessories>
+        </item> 
+    <item id="e07">
+        <name>CD2</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ea01</accessory>
+            <accessory>ea02</accessory>
+            <accessory>ea03</accessory>
+            <accessory>ea04</accessory>
+            <accessory>ea05</accessory>
+            <accessory>ea06</accessory>
+            <accessory>ea07</accessory>
+        </accessories>
+        </item> 
+    <item id="e08">
+        <name>CD3</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ea01</accessory>
+            <accessory>ea02</accessory>
+            <accessory>ea03</accessory>
+            <accessory>ea04</accessory>
+            <accessory>ea05</accessory>
+            <accessory>ea06</accessory>
+            <accessory>ea07</accessory>
+        </accessories>
+        </item> 
+    <item id="e09">
+        <name>driver 4</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ea01</accessory>
+            <accessory>ea02</accessory>
+            <accessory>ea03</accessory>
+            <accessory>ea04</accessory>
+            <accessory>ea05</accessory>
+            <accessory>ea06</accessory>
+            <accessory>ea07</accessory>
+        </accessories>
+        </item> 
+    <item id="e10">
+        <name>driver 5</name>
+        <price >299</price>
+        <discount>0.90</discount>
+        <rebate>20</rebate>
+        <stock>20</stock>
+        <accessories>
+            <accessory>ea01</accessory>
+            <accessory>ea02</accessory>
+            <accessory>ea03</accessory>
+            <accessory>ea04</accessory>
+            <accessory>ea05</accessory>
+            <accessory>ea06</accessory>
+            <accessory>ea07</accessory>
+        </accessories>
+        </item> 
+        <!-- storage access -->
+    <item id="ea01">
+        <name>ea01</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="ea02">
+        <name>ea02</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="ea03">
+        <name>ea03</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="ea04">
+        <name>ea04</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="ea05">
+        <name>ea05</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="ea06">
+        <name>ea06</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+    <item id="ea07">
+        <name>Disk Warranty</name>
+        <price>20</price>
+        <stock>9999</stock>
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Insurance -->
+<!--     <item id="i06">
+        <name>External Storage Warranty</name>
+        <price >20</price>
+        <discount>0</discount>
+        <rebate>0</rebate>
+        <stock>200</stock>
+        <accessories>
+        </accessories>
+        </item> 
+    <item id="i01">
+        <name>Phone Warranty</name>
+        <price >50</price>
+        <discount>0</discount>
+        <rebate>0</rebate>
+        <stock>200</stock>
+        <accessories>
+        </accessories>
+        </item>     
+    <item id="i02">
+        <name>HeadPhone Warranty</name>
+        <price >50</price>
+        <discount>0</discount>
+        <rebate>0</rebate>
+        <stock>200</stock>
+        <accessories>
+        </accessories>
+        </item>
+    <item id="i03">
+        <name>SmartWatch Warranty</name>
+        <price >50</price>
+        <discount>0</discount>
+        <rebate>0</rebate>
+        <stock>200</stock>
+        <accessories>
+        </accessories>
+        </item>     
+    <item id="i04">
+        <name>Speakers Warranty</name>
+        <price >50</price>
+        <discount>0</discount>
+        <rebate>0</rebate>
+        <stock>200</stock>
+        <accessories>
+        </accessories>
+        </item>     
+    <item id="i05">
+        <name>Laptop Warranty</name>
+        <price >50</price>
+        <discount>0</discount>
+        <rebate>0</rebate>
+        <stock>200</stock>
+        <accessories>
+        </accessories>
+        </item>  -->
+
+</ProductCatalog>
